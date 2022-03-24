@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AnithE
-- 👀 I’m interested in Web Devlopment
+- 👋 Hi, I’m @Anithaa
+- 👀 I’m a Devloper
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
